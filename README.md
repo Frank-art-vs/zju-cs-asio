@@ -1,6 +1,10 @@
 # ZJU CS - All Sum in One!
 
-[Page](https://isshikihugh.github.io/zju-cs-asio/) | [Repository](https://github.com/IsshikiHugh/zju-cs-asio)
+<center>
+
+<a href="https://isshikihugh.github.io/zju-cs-asio/">Page</a> | <a href="https://github.com/IsshikiHugh/zju-cs-asio">Repository</a> | <a href="https://github.com/IsshikiHugh/zju-cs-asio?tab=readme-ov-file#all-sum-in-one">Quick Jump</a>
+
+</center>
 
 ## 介绍
 
@@ -13,9 +17,9 @@
 
 出于一些原因，我并不打算在这个仓库中收集诸如课本、真题、大作业等可能引发一系列问题的资料，本仓库希望为各个相对来说更具有原创性的资料提供一个汇总、索引、引流的根入口。
 
-（由于混计人数在混合班中基数重大，所以也收录了一部分 ckc 的资源。）
+（由于混计人数在混合班中基数较大，所以也收录了一部分 ckc 的资源。）
 
-如果你喜欢这个项目，可以给这个项目一个 ⭐️；如果你发现项目中部分资源信息过时或有误（如链接失效、有更合适的描述等），又或者是你想分享更多的资源，请查看[贡献方法](#贡献方法)！
+如果你喜欢这个项目，可以[给这个项目一个 ⭐️](https://github.com/IsshikiHugh/zju-cs-asio)；如果你发现项目中部分资源信息过时或有误（如链接失效、有更合适的描述等），又或者是你想分享更多的资源，请查看[贡献方法](#贡献方法)！
 
 ## 目录
 
@@ -27,37 +31,46 @@
   - [贡献方法](#贡献方法)
   - [鸣谢 / 灵感来源](#鸣谢--灵感来源)
   - [许可](#许可)
-
+  - [Star History](#star-history)
 
 ## All-Sum-in-One
 
-> 注：仅按照大类进行排序，先后顺序并不暗示笔记质量！
+> [!IMPORTANT]
+>
+> 表格仅按照大类进行排序，大类内的先后顺序并不暗示笔记质量！
 >
 > 另外，针对在 GitHub 仓库中访问的同学：由于 [Idea: Introduce new rule against use of target="_blank" on links](https://github.com/github/erblint-github/issues/26)，所以所有在 GitHub 仓库中访问链接直接点击都会导致直接在当前页跳转，所以如果你希望保留该页面，请使用 鼠标中键/三指/快捷键+左键 等方式访问链接。
+
+**条目统计**： 💎 个人 26 项 /  🔮 组织 5 项 /  🧲 课程 5 项 /  🎉 其他 6 项！
 
 | Title | Description |
 | :--- | :--- |
 | <a href="https://note.tonycrane.cc/" target="_blank">💎 鹤翔万里的个人笔记本</a> | 🥑 内容详细、排版美观的计算机知识笔记，ZJU MkDocs 笔记流鼻祖。 |
 | <a href="https://xuan-insr.github.io/" target="_blank">💎 咸鱼暄的代码空间</a> | 🥑 以前写课程笔记，现在在深入 C++，未来还会有更多话题，致力于写出让每个新人都能无痛看懂的优质教程。 |
-| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到“替代教材”。 |
+| <a href="https://note.isshikih.top" target="_blank">💎 Isshiki修's Notebook</a> | 🥑 课程笔记、技术积累等。力求有真实的自己的见解且适合 ta 人学习，希望做到『替代教材』。 |
 | <a href="https://zicx.top/notebook" target="_blank">💎 Zicx 的笔记本</a> | 🥑 CS 课程笔记、技术备忘录、科研经历记录，在旅途中留下一点痕迹。 |
 | <a href="https://zhang-each.github.io/My-CS-Notebook/" target="_blank">💎 小角龙的学习笔记</a> | 🥑 小角龙前辈的博客，内容极其丰富，包含 CS 各方向内容的笔记。 |
-| <a href="https://freshboy-cyh.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
-| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 英专转 CS 和 NLP 的学姐的笔记本，内容覆盖语言学和 CS 等。 |
+| <a href="https://kaleo996.github.io/" target="_blank">💎 FreshBoy's Headspace</a> | 🥑 除了 CS 知识外，还有一些语言学知识笔记。 |
+| <a href="https://ruoxining.github.io/OBvault/" target="_blank">💎 MiniBabelLibrary</a> | 🥑 芭蕉姐姐的博客，包含 CS 和一些语言学笔记，以及一些经验、心得分享。 |
 | <a href="https://obsidian.zerokei.top/" target="_blank">💎 Chritch's Notebook</a> | 🥑 Chritch 的 obsidian 笔记发布站，有一些课程笔记和读书笔记。 |
 | <a href="https://note.jiepeng.tech/" target="_blank">💎 Jiepeng's notes</a> | 🥑 一些 CS 笔记，比较详细。 |
 | <a href="https://note.hobbitqia.cc/" target="_blank">💎 HobbitQia's Notebook</a> | 🥑 一些 CS 相关笔记，涉及课程比较全。 |
 | <a href="https://sakuratsuyu.github.io/Note/" target="_blank">💎 sakuratsuyus's NOTES</a> | 🥑 一些 CS 相关的理论知识，CV 笔记。 |
 | <a href="https://minjoker.github.io/" target="_blank">💎 MinJoker's Notebook</a> | 🥑 涉及 CS 专业课程、BCI 等，比较详细。 |
-| <a href="https://notion-next-six-rouge.vercel.app/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 cs 基础课程、经济学课程与 fintech/web3 方向的笔记。 |
+| <a href="https://csfufu.life/" target="_blank">💎 fufu酱のNoteBook</a> | 🥑 CS 课程、经济学课程与 fintech(QF)/LTG(NLP) 方向的笔记。 |
 | <a href="https://yaoyaolingbro.github.io/notebook/" target="_blank">💎 yaoyaoling 的 CS notebook</a> | 🥑 一些 CS 相关的知识笔记与技能拾遗。 |
 | <a href="https://www.zhihu.com/people/he-eeeeeeeee/posts" target="_blank">💎 金鱼马的知乎页面</a> | 🥑 hls 的文章完成度极高，目前文章主要涉及一些 C/C++ 知识与 AI 内容，推荐阅读！ |
 | <a href="https://note.bowling233.top/" target="_blank">💎 bowling233's TechStack</a> | 🥑 CS 课程、书本笔记。 |
-| <a href="https://oneko.zone/" target="_blank">💎 oneko 的空间</a> | 🥑 CS 课程笔记、技术积累、未来的留学生活! |
+| <a href="https://oneko.zone/" target="_blank">💎 oneko 的空间</a> | 🥑 CS 课程笔记、技术积累、未来的留学生活！ |
 | <a href="https://lhxcs.github.io/note" target="_blank">💎 Iridescent's notebook</a> | 🥑 22 级图灵班同学 CS 课程笔记。 |
 | <a href="https://xymmsnotebook.gitbook.io/noteofxymm/" target="_blank">💎 xymm's note</a> | 🥑 22 级计科工高的笔记，mainly CS & MATH & 科研[MLTheory]。 |
 | <a href="https://jly191.github.io" target="_blank">💎 01gg's Notebook</a> | 🥑 包含课程经验，web 开发相关的内容。 |
 | <a href="https://note.xecades.xyz/" target="_blank">💎 Xecades' Notebook</a> | 🥑 23 级图灵班同学 CS 相关笔记与拾遗（英文）。 |
+| <a href="https://zizheng.life" target="_blank">💎 Zizheng's Blog</a> | 🥑 一些北美课程自学经验、实习总结、技术分享。 |
+| <a href="https://stormckey.github.io/" target="_blank">💎 Stormckey's Page</a> | 🥑 21 级图灵同学的 CS 相关笔记，lab 经验和 blog。 |
+| <a href="https://note.howjul.com" target="_blank">💎 HowJul's note</a> | 🥑 21 级信安课程笔记和一些人工智能相关的笔记。 |
+| <a href="https://note.lilyarnold.cc/" target="_blank">💎 Lily's note</a> | 🥑 CS 课程笔记和 CV，AI 学习笔记。 |
+| <a href="https://birchtree2.github.io" target="_blank">💎 Birchtree's Notebook</a> | 🥑 22 级 CS 课程笔记和 AI+X 学习笔记。 |
 | <a href="https://zju-turing.github.io/TuringCourses/" target="_blank">🔮 图灵班学习指南</a> | 🥑 图灵班课程学习指南，涵盖图灵班相关课程的课程内容、教师评价、学习方法，适合图灵班同学参考。 |
 | <a href="https://slides.tonycrane.cc/PracticalSkillsTutorial/" target="_blank">🔮 实用技能拾遗辅学</a> | 🥑 「实用技能拾遗」系列辅学课程网站，ZJU 版 The Missing Semester。 |
 | <a href="https://ckc-agc.bowling233.top/" target="_blank">🔮 竺院辅学计划网站</a> | 🥑 竺可桢学院辅学计划站点，涉及数理、编程等方面的知识，适合竺可桢学院中低年级同学参考。 |
@@ -66,8 +79,10 @@
 | <a href="http://courses.zjusec.com" target="_blank">🧲 安全攻防实践(CTF)</a> | 🥑 安全攻防实践(CTF)短学期课程网站。 |
 | <a href="https://zju-sec.github.io/os23fall-stu/" target="_blank">🧲 23 年秋冬操作系统实验</a> | 🥑 2023 年操作系统课程实验指导手册。 |
 | <a href="https://github.com/ZJU-PPL" target="_blank">🧲 ZJU PPL Course</a> | 🥑 PPL 课程资料仓库。 |
+| <a href="https://guahao31.github.io/2024_DD/" target="_blank">🧲 24 年春夏数字逻辑设计实验</a> | 🥑 2024 年数字逻辑设计实验指导手册，适用于部分班级，参考前请询问老师。 |
+| <a href="https://compiler.pages.zjusct.io/sp24/" target="_blank">🧲 24 年春夏编译原理实验</a> | 🥑 2024 年春夏编译原理刘忠鑫班实验指导手册，需要内网访问。 |
 | <a href="https://github.com/QSCTech/zju-icicles" target="_blank">🎉 求是潮 zju-icicles</a> | 🥑 浙江大学课程攻略共享计划，范围涵盖 ZJU 所有课程，ZJU 规模最大的课程资源整理仓库，缺点是部分资源可能比较老旧。 |
-| <a href="https://github.com/ruoxining/ZJU_COURSE_MATERIALS" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
+| <a href="https://github.com/ruoxining/ZJUCourse" target="_blank">🎉 芭蕉的课程资料整理</a> | 🥑 ZJU课程资料，主要含英语 + CS 专业课，不含不合适公开的资料和违反 honor code 的作业。 |
 | <a href="https://github.com/pengsida/learning_research" target="_blank">🎉 科研学习经验分享</a> | 🥑 彭思达学长的科研经历分享，学长很厉害，分享的内容很有用。 |
 | <a href="https://github.com/Zhang-Each/CourseNoteOfZJUSE" target="_blank">🎉 CourseNoteOfZJUSE</a> | 🥑 小角龙整理的 ZJU-SE 的一些课程笔记，历年卷，课程经历分享，被誉为软工圣经。 |
 | <a href="https://github.com/RyanFcr/ZJU_Course" target="_blank">🎉 ZJU_Course</a> | 🥑 浙江大学 20 级图灵信安学长的课程资料整理。 |
@@ -76,7 +91,9 @@
 
 ## 动机
 
-> 这部分是一些碎碎念，对于仅希望来获取资源的同学可以跳过，当然你也可以选择停下脚步来一起听听故事！
+> [!TIP]
+>
+> 仅希望来获取资源的同学可以跳过，如果愿意，也可以选择停下脚步来一起听听故事！
 
 2022 年 5 月的某一日，[xyx](https://github.com/smd1121) 一拍脑袋，拉着我和 [27rabbit](https://github.com/27rabbit-penguin)，决定一起搞一个在语雀上的[知识库](https://www.yuque.com/xianyuxuan/saltfish_shop)，按照 [xyx](https://github.com/smd1121) 自己的[说法](https://xuan-insr.github.io/%E4%B8%BB%E9%A1%B5/about/#%E5%85%B3%E4%BA%8E%E5%92%B8%E9%B1%BC%E8%82%86)：
 
@@ -89,27 +106,17 @@
 
 ## 贡献方法
 
-首先 Fork 本仓库，然后使用下面两个方法之一来贡献你的资料，最后提交 PR 即可。
+> [!CAUTION]
+>
+> 贡献前请先阅读下面内容！
+>
+> 简单来说就是**不要直接修改 `README.md`**，而是修改 `data.csv`，否则脚本会将其覆盖。
 
-
-<details><summary>1. 使用 py 脚本一键导入（增加资源推荐这个方案）</summary> 
-
-<pre class="highlight">
-  <code>python scripts/asio_helper.py <span class="nt">-a</span></code>
-</pre>
-
-然后根据提示输入相关信息即可。
-
-</details>
-
-
-<details><summary>2. 直接编辑 csv 文件（修正资源推荐这个方案）</summary> 
-
-直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式在行末添加数据。
-
-请确保你的数据格式和内容正确。
-
-</details>
+1. 使用 py 脚本一键导入（增加资源推荐这个方案）
+    - 输入 <code>python scripts/asio_helper.py <span class="nt">-a</span></code>，然后根据提示输入相关信息即可。
+2. 直接编辑 csv 文件（修正资源推荐这个方案）
+    - 直接编辑 <code>data.csv</code> 文件，按照 csv 文件格式    在行末添加数据。
+    - 请确保你的数据格式和内容正确！（详细要求见下方“注意”。）
 
 
 您可以使用如下命令来检查渲染后的结果以保证数据没有问题：
@@ -118,10 +125,10 @@
 python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 ```
 
-**注意**：
-
-1. 本项目仅仅收集资源链接，而不实际存储资源，**请勿提交资源文件**；
-2. 请注意排版问题，包括但不限于：中西文间加空格，描述末尾加句号等；
+> [!WARNING]
+>
+> 1. 本项目仅仅收集资源链接，而不实际存储资源，**请勿提交资源文件**；
+> 2. 请注意排版问题，包括但不限于：**中西文间加空格**，**描述末尾加句号**等；
 
 如果发现项目中涉及的内容有误或链接失效等，可以直接修改 `data.csv` 中对应内容。
 
@@ -131,11 +138,21 @@ python scripts/asio_helper.py -r # The output will overwrite `README.md`.
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs/tree/master)
 - [SaltyfishShop/big_discusson](https://github.com/SaltyfishShop/big_discusson)
 
+以及 Contributors：
+
+<a href="https://github.com/IsshikiHugh/zju-cs-asio/graphs/contributors">
+    <img width="550" src="https://contrib.rocks/image?repo=IsshikiHugh/zju-cs-asio" />
+</a>
+
 ## 许可
 
 本文档采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议进行许可，转载请注明出处。
 
----
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IsshikiHugh/zju-cs-asio&type=Date)](https://star-history.com/#IsshikiHugh/zju-cs-asio&Date)
+
+
 
 <details><summary>彩蛋</summary>
 
